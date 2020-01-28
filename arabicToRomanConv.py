@@ -57,5 +57,3 @@ def main_loop():
         quitChar = input('\ndo you want to quit? (y/n) ')
         if (quitChar == "y"):
             break
-
-main_loop()
